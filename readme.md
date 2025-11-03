@@ -58,7 +58,7 @@ El sistema simula los siguientes componentes distribuidos:
 
 ### 2. Ejecución del servidor
 En una terminal:
-```bash
+
 python servidor.py
 
 El servidor se iniciará escuchando en 127.0.0.1:5000 y lanzará tres workers concurrentes.
